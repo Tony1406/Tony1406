@@ -1,11 +1,9 @@
 <h1 align="center">Hola 👋, soy Anthony Gómez</h1>
 <h3 align="center">Un desarrollador apasionado en Madrid, España</h3>
 
-- 👨‍💻 Todos mis proyectos están aquí: [https://github.com/Tony1406](https://github.com/Tony1406)
-
 - 📫 Para contactarme : **anthony.go0609@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecta conmigo por:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anthony gómez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anthony gómez" height="30" width="40" /></a>
 </p>
