@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Anthony Gómez</h1>
-<h3 align="center">Un desarrollador apasionado de Madrid, España</h3>
+<h3 align="center">Un desarrollador apasionado en Madrid, España</h3>
 
 - 👨‍💻 Todos mis proyectos están aquí: [https://github.com/Tony1406](https://github.com/Tony1406)
 
