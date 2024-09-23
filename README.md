@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Anthony Gómez</h1>
-<h3 align="center">Un apasionado desarrollador en Madrid, España</h3>
+<h3 align="center">Un apasionado desarrollador web en Madrid, España</h3>
 
 - 📫 Para contactarme : **anthony.go0609@gmail.com**
 
