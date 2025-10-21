@@ -1,7 +1,3 @@
-<h1 align="center">Soy Anthony Gómez</h1>
-
-- 📫 Para contactarme : **anthony.go0609@gmail.com**
-
 <h1 align="center">Hello!! Im Anthony</h1>
 <h3 align="center">A developer from Madrid, Spain</h3>
 
