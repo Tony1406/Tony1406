@@ -1,6 +1,6 @@
 # I'm Anthony Gómez, nice to meet you!!
 
-### An experienced TypeScript developer
+### An experienced Software developer
 
 - 🔭 I'm currently working on **the final proyect of my Web Developer Cicle.**
 
