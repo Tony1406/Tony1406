@@ -19,6 +19,6 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,react,ts,js,nodejs,express,java,spring,cs,py,django,html,css,bootstrap,tailwind,mysql,postgres,mongodb,oracle,docker,git,github,linux,figma,postman,jest,unity&perline=10" />
+  <img src="https://skillicons.dev/icons?i=angular,react,ts,js,nodejs,express,java,spring,py,django,html,css,bootstrap,tailwind,mysql,postgres,mongodb,oracle,docker,git,github,linux,figma,postman,jest,unity&perline=20" />
 </p>
 
