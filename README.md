@@ -1,4 +1,4 @@
-# I'm Anthony Gómez, nice to meet you!!
+# I'm Anthony Gómez
  
 ### An experienced Software developer
 
