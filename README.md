@@ -1,7 +1,5 @@
 # I'm Anthony Gómez
  
-### An experienced Software developer
-
 - I recently graduated from my Higher Vocational Degree (FP Grado Superior) in Web Application Development (DAW).
 
 - I'm currently learning **React.js, Node/Express, Angular.js, TypeScript**
