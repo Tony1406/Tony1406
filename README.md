@@ -2,13 +2,13 @@
  
 ### An experienced Software developer
 
-- 🔭 I'm currently working on **the final proyect of my Web Developer Cicle.**
+- I'm currently working on **the final proyect of my Web Developer Cicle.**
 
-- 🌱 I'm currently learning **React.js, Node/Express, Angular.js, TypeScript**
+- I'm currently learning **React.js, Node/Express, Angular.js, TypeScript**
 
-- 📫 How to reach me **anthony.go0609@gmail.com**
+- How to reach me **anthony.go0609@gmail.com**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1SyNz57U7q1-Bzs65dM4ZyYGi8EcjlrXg/view?usp=drive_link](https://drive.google.com/file/d/1SyNz57U7q1-Bzs65dM4ZyYGi8EcjlrXg/view?usp=drive_link)**
+- Know about my experiences **[https://drive.google.com/file/d/1SyNz57U7q1-Bzs65dM4ZyYGi8EcjlrXg/view?usp=drive_link](https://drive.google.com/file/d/1SyNz57U7q1-Bzs65dM4ZyYGi8EcjlrXg/view?usp=drive_link)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
