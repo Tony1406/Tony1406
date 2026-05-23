@@ -6,8 +6,6 @@
 
 - How to reach me **anthony.go0609@gmail.com**
 
-- Know about my experiences **[https://drive.google.com/file/d/1SyNz57U7q1-Bzs65dM4ZyYGi8EcjlrXg/view?usp=drive_link](https://drive.google.com/file/d/1SyNz57U7q1-Bzs65dM4ZyYGi8EcjlrXg/view?usp=drive_link)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anthony-e-gomez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anthony-e-gomez" height="30" width="40" /></a>
