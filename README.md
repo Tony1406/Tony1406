@@ -2,8 +2,6 @@
  
 - I recently graduated from my Higher Vocational Degree (FP Grado Superior) in Web Application Development (DAW).
 
-- I'm currently learning **React.js, Node/Express, Angular.js, TypeScript**
-
 - How to reach me **anthony.go0609@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
